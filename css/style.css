@@ -1,0 +1,33 @@
+p {
+	text-align: center;
+	color: #FFF;
+}
+
+button {
+	font-size: 35px;
+}
+
+div {
+	text-align: center;
+	color: #FFF;
+}
+
+.question {
+	font-size: 75px;
+	color: #FFF;
+}
+
+img {
+	height: 50vw;
+	width: 100vw;
+}
+
+h1 {
+	font-size: 75px;
+	text-align: center;
+	color: #FFF
+}
+
+html {
+	background-color: #000;
+}
